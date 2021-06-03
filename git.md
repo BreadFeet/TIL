@@ -98,7 +98,7 @@ $ git status
 
 * working directory (add 전), staging area (add 후) 공간의 파일 상태를 확인할 수 있다.
 
-![img](md_images/z7QsjQG-af7iZICqxOuTEPpZfMuwJv6uAwrOFfYGSDe8f8etRL7mvB8P665qPWnIfR7cIhD73lJjzvYyegMRhF6imYIF3Qv8eL9sluAKgE0ALCkzidVmouvJloDNMfw9TEN53Mt3)
+![concept](md_images/concept.png)
 
 
 
