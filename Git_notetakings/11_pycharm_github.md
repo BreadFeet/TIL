@@ -24,13 +24,13 @@
 
 2. `add` 되어야 하는 파일의 중, `commit`된 적 없는 파일 -> 빨간색 | `commit`된 적 있는 파일 -> 파란색
 
-   <img src="md_images/image-20210624131251132.png" alt="image-20210624131251132" style="zoom:67%;" />
+   <img src="md_images/image-20210625055914435.png" alt="image-20210625055914435" style="zoom:67%;" />
 
 
 
 3. v 표시의 `commit` 아이콘을 클릭한 뒤, 커밋해야할 파일들을 체크박스에서 선택한다.
 
-   <img src="md_images/image-20210624124452028.png" alt="image-20210624124452028" style="zoom:50%;" />
+   <img src="md_images/image-20210625060051641.png" alt="image-20210625060051641" style="zoom:67%;" />
 
 
 
@@ -46,5 +46,5 @@
 
 
 
-5. `push` 가 잘 이루어졌는지 확인하려면, Github에서 저장소를 새로고침한다.
+5. `push` 가 잘 이루어졌는지 확인하려면, Github에서 저장소를 새로고침 한다.
 
