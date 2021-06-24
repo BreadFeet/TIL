@@ -67,7 +67,7 @@ Changes to be committed:
 #### 예시
 
 ```bash
-$ touch a.txt         # 파일을 만들고 코드 작업을 한 경우
+$ touch a.txt         # 파일을 만들고 코드 작업을 한 경우는
 $ git status          # untracked files로 분류
 ```
 
@@ -180,18 +180,5 @@ $ git push origin main
 - push는 commit한 파일만 전송함
 
 ![image-20210606075026880](../../../../AppData/Roaming/Typora/typora-user-images/image-20210606075026880.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

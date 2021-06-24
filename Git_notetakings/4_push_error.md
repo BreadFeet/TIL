@@ -103,3 +103,18 @@ To https://github.com/edutak/edutak.git
 
 - push해야 비로소 Github의 history에서도 merge를 확인할 수 있음!!
 
+
+
+
+
+## Trouble-Shooting
+
+git을 여러번 pull-push 하다보면 문제가 생겨 막힐 수가 있다. 초보일 경우에는 이런 경우 고민하지 말고,
+
+
+
+1. 로컬에서 `push` 하려던 수정된 파일을 다른 위치로 옮겨 놓고, 해당 `.git`이 있던 폴더는 삭제한다.
+2. 원격저장소에서 `clone`하여 이전 git 기록을 모두 다시 로컬로 받아온다.
+3. 옮겨놓았던 수정된 파일을 clone된 로컬저장소로 옮긴다.
+4. 원격저장소로 다시 `push`를 진행한다.
+
