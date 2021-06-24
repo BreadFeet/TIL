@@ -24,7 +24,7 @@
 
 2. `add` 되어야 하는 파일의 중, `commit`된 적 없는 파일 -> 빨간색 | `commit`된 적 있는 파일 -> 파란색
 
-   <img src="md-images/image-20210624130428513.png" alt="image-20210624130428513" style="zoom:67%;" />ㅇ
+   <img src="md_images/image-20210624131251132.png" alt="image-20210624131251132" style="zoom:67%;" />
 
 
 
