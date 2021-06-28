@@ -18,13 +18,13 @@ $ git restore a.txt       # 수정사항 다 사라짐
 
 -> 이런 경우에는, 그냥 파일 안에서 ctrl+z로 돌아가는 것이 나음
 
+<br>
 
-
-
+<br>
 
 ## 2. add 취소
 
-### commit이 된적 없던 파일
+### commit이 된적 없는 파일
 
 - 파일을 취소하려는 경우
 
@@ -40,6 +40,8 @@ Changes to be committed:
         new file:   README.md
         new file:   a.txt
 ```
+
+
 
 ```bash
 $ git rm --cached a.txt       # add 취소하려는 파일
@@ -69,7 +71,7 @@ Untracked files:
         test.txt
 ```
 
-
+<br>
 
 ### commit이 된 적이 있어 git이 기억하는 파일
 
@@ -82,6 +84,8 @@ Changes to be committed:
         modified:   README.md
         modified:   a.txt
 ```
+
+
 
 ```bash
 $ git restore --staged a.txt
@@ -112,9 +116,9 @@ Changes to be committed:
 
 ==> Instruction을 따르면 되기 때문에 기억해야 할 필요는 없음!! :D
 
+<br>
 
-
-
+<br>
 
 ## 3. Commit message 수정
 
@@ -142,9 +146,9 @@ e550f09 (HEAD -> master) commit message changed   # 처음 commit 기록은 사�
 
 * VS code나 vim 등 커밋 메시지 작성 화면이 나오면 수정, 저장하면 된다
 
+<br>
 
-
-
+<br>
 
 ## 4. 빠진 파일을 추가 커밋하고 싶을 때
 
@@ -177,7 +181,6 @@ $ git log --oneline                 # amend 전 commit 이력 사라짐
 
 - 하나의 commit, hash로 관리하려면, `git commit --amend`
 - 별도의 commit, hash로 관리하려면, 원래대로 `git command -m`
-
 
 
 
